@@ -1,5 +1,5 @@
 <h1 align="center">"𝐓𝐡𝐞 𝐛𝐞𝐬𝐭 𝐰𝐚𝐲 𝐭𝐨 𝐩𝐫𝐞𝐝𝐢𝐜𝐭 𝐲𝐨𝐮𝐫 𝐟𝐮𝐭𝐮𝐫𝐞 𝐢𝐬 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐭!" <br> Abraham Lincoln ✨</h1>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/286354/screenshots/1207913/media/209d6cf5313cb0b05508202b8212f501.gif">
+<a href="https://app.daily.dev/liorbenishay"><img src="https://api.daily.dev/devcards/v2/1PyAjrmzWdR7SSEYJeZRx.png?type=wide&r=n2t" align="right" width="400" alt="Lior Ben Ishay's Dev Card"/></a>
 
 Hey, I'm Lior ✨🙋 <br>a passionate Software Engineer and a recent B.Sc. Electrical Engineering graduate from <br>Tel Aviv University.
 
@@ -46,6 +46,8 @@ Beyond tech, I'm passionate about:
 📫 Feel free to reach out at liorbi220@gmail.com or connect here on LinkedIn.
 
 #SoftwareDevelopment #ArtificialIntelligence #MachineLearning #EmbeddedSystems #Innovation
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/286354/screenshots/1207913/media/209d6cf5313cb0b05508202b8212f501.gif">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lior20&show_icons=true&locale=en&layout=compact" alt="lior20" /></p>
 
