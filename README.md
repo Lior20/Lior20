@@ -47,9 +47,9 @@ Beyond tech, I'm passionate about:
 
 #SoftwareDevelopment #ArtificialIntelligence #MachineLearning #EmbeddedSystems #Innovation
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/286354/screenshots/1207913/media/209d6cf5313cb0b05508202b8212f501.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/286354/screenshots/1207913/media/209d6cf5313cb0b05508202b8212f501.gif">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lior20&show_icons=true&locale=en&layout=compact" alt="lior20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lior20&show_icons=true&locale=en" alt="lior20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lior20&show_icons=true&locale=en" alt="lior20" /></p> -->
 
