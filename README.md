@@ -1,7 +1,7 @@
 <h1 align="center">"𝐓𝐡𝐞 𝐛𝐞𝐬𝐭 𝐰𝐚𝐲 𝐭𝐨 𝐩𝐫𝐞𝐝𝐢𝐜𝐭 𝐲𝐨𝐮𝐫 𝐟𝐮𝐭𝐮𝐫𝐞 𝐢𝐬 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐭!" <br> Abraham Lincoln ✨</h1>
 <a href="https://app.daily.dev/liorbenishay"><img src="https://api.daily.dev/devcards/v2/1PyAjrmzWdR7SSEYJeZRx.png?type=wide&r=n2t" align="right" width="400" alt="Lior Ben Ishay's Dev Card"/></a>
 
-Hey, I'm Lior ✨🙋 <br>a passionate Software Engineer and a recent B.Sc. Electrical Engineering graduate from <br>Tel Aviv University.
+Hey, I'm Lior ✨🙋 <br>a passionate Software Engineer and a recent B.Sc. Electrical Engineering graduate from Tel Aviv University.
 
 Technology and innovation have always been my driving forces. 💡 <br>From building autonomous robots in high school to developing advanced software <br>solutions as a Software Engineer with a passion for AI and cutting-edge technologies.
 
