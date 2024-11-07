@@ -6,8 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 SW engineer and AI enthusiast
 -----------------------------
-
+A passionate Software Engineer and a recent B.Sc. Electrical Engineering graduate from Tel Aviv University.<br>
 Technology and innovation have always been my driving forces. 💡 <br>From building autonomous robots in high school to developing advanced software <br>solutions as a Software Engineer with a passion for AI and cutting-edge technologies.
+
+* 🌍  I'm based in Tel Aviv, Israel
+* 🖥️  See my portfolio at [My personal site](http://liorbeni100.wixstudio.io/personal-site)
+* ✉️  You can contact me at [liorbi220@gmail.com](mailto:liorbi220@gmail.com)
 
 <h3 align="left">🔬 My journey in tech has led me to:</h3>
  <ul>
@@ -44,25 +48,13 @@ Beyond tech, I'm passionate about:
 📖 Reading
 
 ### Socials
-                  
-                  
-<p align="left">
-      <a href="https://www.github.com/Lior20" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.linkedin.com/in/liorbenishay" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-    </a></p>### Badges<b>My GitHub Stats</b><a
-      href="http://www.github.com/Lior20"><img src="https://github-readme-stats.vercel.app/api?username=Lior20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lior20's GitHub stats" /></a><a href="https://github.com/Lior20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lior20&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-                      
+
+<p align="left"> <a href="https://www.github.com/Lior20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/liorbenishay" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<a href="https://github.com/Lior20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lior20&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>   <a href="http://www.github.com/Lior20"><img src="https://github-readme-stats.vercel.app/api?username=Lior20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lior20's GitHub stats" /></a>
+                   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -72,10 +64,6 @@ Beyond tech, I'm passionate about:
 📫 Feel free to reach out at liorbi220@gmail.com or connect here on LinkedIn.
 
 #SoftwareDevelopment #ArtificialIntelligence #MachineLearning #EmbeddedSystems #Innovation
-
-
-
-### Skills 
 
                     
                   
