@@ -1,7 +1,7 @@
 <h1 align="center">"𝐓𝐡𝐞 𝐛𝐞𝐬𝐭 𝐰𝐚𝐲 𝐭𝐨 𝐩𝐫𝐞𝐝𝐢𝐜𝐭 𝐲𝐨𝐮𝐫 𝐟𝐮𝐭𝐮𝐫𝐞 𝐢𝐬 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐭!" <br> Abraham Lincoln ✨</h1>
 <a href="https://app.daily.dev/liorbenishay"><img src="https://api.daily.dev/devcards/v2/1PyAjrmzWdR7SSEYJeZRx.png?type=wide&r=n2t" align="right" width="400" alt="Lior Ben Ishay's Dev Card"/></a>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lior Ben Ishay
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>My name is Lior Ben Ishay
 ======================================================================================================================================
 
 SW engineer and AI enthusiast
